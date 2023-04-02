@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "nodemon ./backend/index.js"
+    "start": "node ./backend/index.js"
   },
   "dependencies": {
     "active-win": "^8.1.0",
